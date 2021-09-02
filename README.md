@@ -23,7 +23,7 @@ Your application reflects the same user experience as that of a real-world e-com
 
 ## Development strategy
 
-Feel free to use this overview and the [project rubric](https://review.udacity.com/#!/rubrics/3005/view) specifications to create this project. You are always welcome to design and implement your own workflow, but if you are stuck or could use some inspiration, we've included the following walkthrough the help you get up and running.
+Feel free to use this overview and the [project rubric](https://review.udacity.com/#!/rubrics/3069/view) specifications to create this project. You are always welcome to design and implement your own workflow, but if you are stuck or could use some inspiration, we've included the following walkthrough the help you get up and running.
 
 * **Scaffold your project** using the Angular CLI, and install any dependencies.
 * **Generate the product list component**. Having the product list as the "main" page is a great start for your users.
